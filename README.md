@@ -32,7 +32,7 @@ The agent runs a dual-layer inference pipeline on every query:
 
 | | |
 |---|---|
-| ![Confusion Matrix](images/confusion_matrix.png) | ![Confidence Threshold](images/fig4_threshold.png) |
+| ![Confusion Matrix](images/confusion_matrix (2).png) | ![Confidence Threshold](images/fig4_threshold.png) |
 | Intent classifier confusion matrix (24-query test set) | Effect of confidence threshold on agent responsiveness |
 
 | | |
